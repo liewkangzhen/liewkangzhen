@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @liewkangzhen
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Javascript.
+- 👋 Hi, I’m Liew Kang Zhen
+- 👀 I’m interested in Digital and Analog IC Design.
 - 📫 How to reach me: My email is kangzhen0428@gmail.com
 - ⚡ Fun fact: I love playing chess, piano, basketball, running.
 
