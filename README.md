@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Liew Kang Zhen
 - 👀 I’m interested in Advanced electronics, Computer Architecture and Digital Hardware accelerators
 - 📫 How to reach me: My email is kangzhen0428@gmail.com
-- ⚡ Fun fact: I love playing chess, piano, basketball, running.
+- ⚡ Fun fact: I also love playing chess, piano, basketball, running.
 
 <!---
 liewkangzhen/liewkangzhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
