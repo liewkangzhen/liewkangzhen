@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liew Kang Zhen
-- 👀 I’m interested in Digital and Analog IC Design.
+- 👀 I’m interested in Advanced electronics, Computer Architecture and Digital Hardware accelerators
 - 📫 How to reach me: My email is kangzhen0428@gmail.com
 - ⚡ Fun fact: I love playing chess, piano, basketball, running.
 
